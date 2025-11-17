@@ -1,0 +1,52 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 21:07:11 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+水晶： 2 / 2 [我方英雄] warrior （生命: 30 + 2 武器: 未知 ( 0 / 0 ) ) [敌方英雄] deathknight （生命: 30 + 0 武器: 未知 ( 0 / 0 ) ) 
+(猜测对手构筑为:殡淇淋DK 套牌代码：AAEBAfHhBAjt/wX/lwbHpAakwAaowAbIyQaWywa6zgYL9eMEhY4GlJUGkqAGubEGu7EG/7oGv74Gx8kG/8kGlM8GAAED9bMGx6QG97MGx6QG6N4Gx6QGAAA=
+预计直伤： 0， 加上场攻一共 2 )
+[敌方场面] 恐惧猎犬训练师 ( 2 / 1 ) 
+[我方场面] 
+[我方手牌] 货物保镖(费用： 3 ； 2 / 4 ) 焦油爬行者(费用： 3 ； 1 / 5 ) 货物保镖(费用： 3 ； 2 / 4 ) 焦油爬行者(费用： 3 ； 1 / 5 ) 基尔加丹(费用： 7 ； 7 / 7 ) 踏青驼鹿(费用： 8 ； 6 / 11 ) 
+[敌方剩余卡牌预测] 兵主;矿坑老板雷斯卡;奇利亚斯豪华版3000型;麦芽岩浆;自然天性;伊丽扎刺刃;扣子;戈贡佐姆;冰霜打击(2);奇迹推销员(2);黑暗符文(2);采矿事故(2);彩虹裁缝(2);绝望线缕(2);恐惧猎犬训练师;炫目演出者(2);大地之末号(2);甜筒殡淇淋(2);食尸鬼之夜(2);
+#######################################################################
+#######################################################################
+turn 4/0
+mana 2/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 0 0 2
+ownhero:
+warrior 30 30 2 False False 78 False 0 False 0 0 False
+weapon: 0 0 未知 None 0 0 0
+ability: True CS2_102_H1
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+deathknight 30 30 0 False False 76 False
+weapon: 0 0 未知 None 0 0 0
+ability: True HERO_11bp
+fatigue: 39 0 41 0
+OwnMinions:
+EnemyMinions:
+恐惧猎犬训练师(2/1) VAC_514 zp:1 e:7 A:2 H:1 mH:1 rdy:True
+Own Handcards: 
+pos 1 货物保镖(2/4) 3 entity 45 CORE_SW_030 0 0 0
+pos 2 焦油爬行者(1/5) 3 entity 48 CORE_UNG_928 0 0 0
+pos 3 货物保镖(2/4) 3 entity 67 CORE_SW_030 0 0 0
+pos 4 焦油爬行者(1/5) 3 entity 53 CORE_UNG_928 0 0 0
+pos 5 基尔加丹(7/7) 7 entity 65 GDB_145 0 0 0
+pos 6 踏青驼鹿(6/11) 8 entity 44 EDR_978 0 0 0
+Enemy cards: 4
+己方当前回合随从墓地: 
+敌方当前回合随从墓地: 
+己方当前回合卡牌墓地: 
+敌方当前回合卡牌墓地: 
+己方坟场: REV_COIN2,1;
+敌方坟场: 
+od: EDR_000,2;TOY_000,1;CORE_CS2_106,2;VAC_518,2;TOY_517,1;CORE_SW_030,1;WORK_023,2;VAC_406,2;EDR_260,2;EDR_856,1;GDB_226,2;EDR_572,1;CORE_KAR_061,1;TOY_606,1;VAC_340,1;GDB_145,1;TOY_330,1;GDB_320,2;VAC_948,1;

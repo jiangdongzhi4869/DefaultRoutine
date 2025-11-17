@@ -1,0 +1,52 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 21:03:52 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+水晶： 11 / 15 [我方英雄] warrior （生命: 30 + 2 武器: 未知 ( 0 / 0 ) ) [敌方英雄] warlock （生命: 30 + 10 武器: 未知 ( 0 / 0 ) ) 
+(猜测对手构筑为: 套牌代码：
+预计直伤： 0， 加上场攻一共 0 )
+[敌方场面] 
+[我方场面] 伊瑟拉翡翠守护巨龙 ( 4 / 4 ) 年兽 ( 10 / 9 )[风怒] 狡诈拷问者 ( 15 / 14 )[无法攻击] 阿克蒙德 ( 15 / 13 ) 变异生命体 ( 3 / 6 ) 变异生命体 ( 9 / 6 )[无法攻击] 
+[我方手牌] 馆长(费用： 5 ； 4 / 6 ) 
+[敌方剩余卡牌预测] 
+#######################################################################
+#######################################################################
+turn 30/4
+mana 11/15
+emana 15
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 17 0 2
+ownhero:
+warrior 30 30 2 False False 70 False 0 False 0 0 False
+weapon: 0 0 未知 None 0 0 0
+ability: True CS2_102_H1
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+warlock 30 30 10 False False 68 False
+weapon: 0 0 未知 None 0 0 0
+ability: True HERO_07bp
+fatigue: 126 0 47 0
+OwnMinions:
+伊瑟拉翡翠守护巨龙(4/4) EDR_000 zp:1 e:41 A:4 H:4 mH:12 rdy:True natt:0
+年兽(10/9) EDR_421 zp:2 e:182 A:10 H:9 mH:16 rdy:True natt:0 wndfr 附魔: GDB_145e2
+狡诈拷问者(15/14) EDR_102 zp:3 e:177 A:15 H:14 mH:14 rdy:False natt:0 ex ptt 附魔: GDB_145e2
+阿克蒙德(15/13) GDB_128 zp:4 e:144 A:15 H:13 mH:15 rdy:True natt:0 附魔: GDB_145e2
+变异生命体(3/6) GDB_321 zp:5 e:241 A:3 H:6 mH:8 rdy:True natt:0 poi
+变异生命体(9/6) GDB_321 zp:6 e:179 A:9 H:6 mH:14 rdy:False natt:1 ex poi 附魔: GDB_145e2
+EnemyMinions:
+Own Handcards: 
+pos 1 馆长(4/6) 5 entity 253 CORE_KAR_061 0 0 0 EDR_100t13e
+Enemy cards: 1
+己方当前回合随从墓地: GDB_226,39;CORE_BT_351,157;
+敌方当前回合随从墓地: CORE_BT_304,27;BT_304t,248;
+己方当前回合卡牌墓地: GDB_226,39;CORE_BT_351,157;EDR_102t,250;EDR_100t13,256;
+敌方当前回合卡牌墓地: CORE_BT_304,27;BT_304t,248;
+己方坟场: WORK_023,1;TOY_517,1;CORE_SW_030,2;EDR_978,1;GDB_226,1;EDR_572,1;GDB_320,1;TOY_000,1;GDB_145,1;VAC_406,1;EDR_260,2;CORE_UNG_928,2;WW_COIN1,1;MIS_911,1;CORE_BT_351,1;EDR_102t,1;EDR_100t13,1;
+敌方坟场: CORE_UNG_928,2;CORE_SCH_158,1;CORE_EX1_011,1;CORE_BT_304,2;CORE_EX1_043,2;CORE_EX1_309,2;EDR_488,1;CORE_ICC_055,2;CORE_LOOT_413,2;CORE_CS2_179,1;CORE_SW_068,2;CORE_CS2_062,2;CORE_EX1_310,1;CORE_EX1_319,2;CORE_BOT_222,1;CORE_EX1_302,2;TOY_526,1;TOY_520,1;VAC_940,1;CORE_BAR_812,1;MIS_105,1;BT_304t,2;EDR_102t,1;EDR_571,1;EDR_100t1,1;
+od: CORE_EX1_319,2;TOY_652,1;CORE_EX1_310,1;GDB_870,1;EDR_780,1;GDB_129,2;CORE_BT_493,3;EDR_493,2;GDB_132,2;VAC_943,1;CORE_BT_304,1;WORK_015,1;VAC_958,1;VAC_933,1;GDB_226,1;TOY_526,1;EDR_486,2;EDR_891,1;MIS_911,2;CORE_ICC_075,1;GDB_472,1;GDB_118,1;TOY_330,1;

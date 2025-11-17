@@ -1,0 +1,54 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 20:56:51 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+水晶： 0 / 9 [我方英雄] warrior （生命: 30 + 3 武器: 未知 ( 0 / 0 ) ) [敌方英雄] warlock （生命: 29 + 1 武器: 未知 ( 0 / 0 ) ) 
+(猜测对手构筑为: 套牌代码：
+预计直伤： 0， 加上场攻一共 0 )
+[敌方场面] 莫尔葛熔魔 ( 8 / 8 )[嘲讽]
+[我方场面] 幻影绿翼龙 ( 4 / 5 )[无法攻击][嘲讽]踏青驼鹿 ( 6 / 6 )[嘲讽]货物保镖 ( 2 / 4 )[无法攻击] 幻影绿翼龙 ( 4 / 5 )[无法攻击][嘲讽]
+[我方手牌] 伊瑟拉翡翠守护巨龙(费用： 9 ； 4 / 12 ) 凶恶的入侵者(费用： 5 ； 3 / 5 ) 基尔加丹(费用： 7 ； 7 / 7 ) 泼漆彩鳍鱼人(费用： 3 ； 2 / 3 ) 
+[敌方剩余卡牌预测] 
+#######################################################################
+#######################################################################
+turn 18/3
+mana 0/9
+emana 9
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+3 3 0 0 7 0 2
+ownhero:
+warrior 30 30 3 False False 70 False 0 False 0 0 False
+weapon: 0 0 未知 None 0 0 0
+ability: True CS2_102_H1
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+warlock 29 30 1 False False 68 False
+weapon: 0 0 未知 None 0 0 0
+ability: True HERO_07bp
+fatigue: 39 0 39 0
+OwnMinions:
+幻影绿翼龙(4/5) EDR_260 zp:1 e:61 A:4 H:5 mH:5 rdy:False natt:0 ex tnt ptt
+踏青驼鹿(6/6) EDR_978 zp:2 e:37 A:6 H:6 mH:11 rdy:True natt:0 tnt
+货物保镖(2/4) CORE_SW_030 zp:3 e:62 A:2 H:4 mH:4 rdy:False natt:0 ex ptt
+幻影绿翼龙(4/5) EDR_260 zp:4 e:53 A:4 H:5 mH:5 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+莫尔葛熔魔(8/8) CORE_SW_068 zp:1 e:15 A:8 H:8 mH:8 rdy:False ex tnt
+Own Handcards: 
+pos 1 伊瑟拉翡翠守护巨龙(4/12) 9 entity 41 EDR_000 0 0 0
+pos 2 凶恶的入侵者(3/5) 5 entity 39 GDB_226 0 0 0
+pos 3 基尔加丹(7/7) 7 entity 46 GDB_145 0 0 0
+pos 4 泼漆彩鳍鱼人(2/3) 3 entity 35 TOY_517 0 0 0
+Enemy cards: 5
+己方当前回合随从墓地: 
+敌方当前回合随从墓地: 
+己方当前回合卡牌墓地: 
+敌方当前回合卡牌墓地: 
+己方坟场: WORK_023,1;CORE_SW_030,1;EDR_572,1;GDB_320,1;TOY_000,1;VAC_406,1;CORE_UNG_928,1;WW_COIN1,1;
+敌方坟场: CORE_SCH_158,1;CORE_EX1_011,1;CORE_BT_304,1;CORE_ICC_055,2;CORE_CS2_179,1;CORE_CS2_062,2;CORE_BOT_222,1;CORE_LOOT_413,1;CORE_EX1_302,1;TOY_526,1;TOY_520,1;VAC_940,1;CORE_BAR_812,1;MIS_105,1;BT_304t,1;
+od: CORE_CS2_106,2;VAC_518,2;CORE_UNG_928,1;WORK_023,1;VAC_406,1;EDR_856,1;GDB_226,1;CORE_KAR_061,1;TOY_606,1;VAC_340,1;TOY_330,1;GDB_320,1;VAC_948,1;

@@ -1,0 +1,61 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 20:42:51 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+水晶： 10 / 15 [我方英雄] warrior （生命: 19 + 1 武器: 未知 ( 0 / 0 ) ) [敌方英雄] hunter （生命: 23 + 0 武器: 未知 ( 0 / 0 )  奥秘数: 1) 
+(猜测对手构筑为: 套牌代码：
+预计直伤： 0， 加上场攻一共 0 )
+[敌方场面] 
+[我方场面] 合金顾问 ( 2 / 5 )[嘲讽]踏青驼鹿 ( 6 / 11 )[嘲讽]受难的恐翼巨龙 ( 5 / 5 ) 饥饿食客哈姆 ( 13 / 10 )[嘲讽]奇利亚斯豪华版3000型 ( 7 / 6 )[嘲讽]测试假人 ( 4 / 8 )[嘲讽]艾瑞达蛮兵 ( 6 / 7 )[嘲讽]
+[我方手牌] 困倦的岛民(费用： 4 ； 3 / 5 ) 幻影绿翼龙(费用： 6 ； 4 / 5 ) 凶恶的入侵者(费用： 5 ； 3 / 5 ) 凶恶的入侵者(费用： 5 ； 3 / 5 ) 馆长(费用： 5 ； 4 / 6 ) 货物保镖(费用： 3 ； 2 / 4 ) 焦油泥浆怪(费用： 1 ； 0 / 3 ) 梦魇之王萨维斯(费用： 4 ； 4 / 4 ) 焦油爬行者(费用： 3 ； 1 / 5 ) 
+[敌方剩余卡牌预测] 
+#######################################################################
+#######################################################################
+turn 30/1
+mana 10/15
+emana 15
+own secretsCount: 0
+enemy secretsCount: 1 ;47.00100000000000000000000,
+player:
+1 1 0 0 7 0 1
+ownhero:
+warrior 19 30 1 False False 68 False 0 False 0 0 False
+weapon: 0 0 未知 None 0 0 0
+ability: True CS2_102_H3
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+hunter 23 30 0 False False 70 False
+weapon: 0 0 未知 None 0 0 0
+ability: True HERO_05dbp
+fatigue: 70 0 38 0
+OwnMinions:
+合金顾问(2/5) WORK_023 zp:1 e:8 A:2 H:5 mH:6 rdy:True natt:0 tnt
+踏青驼鹿(6/11) EDR_978 zp:2 e:26 A:6 H:11 mH:11 rdy:True natt:0 tnt
+受难的恐翼巨龙(5/5) EDR_572 zp:3 e:11 A:5 H:5 mH:5 rdy:True natt:0
+饥饿食客哈姆(13/10) VAC_340 zp:4 e:25 A:13 H:10 mH:13 rdy:True natt:0 tnt 附魔: VAC_340e VAC_340e VAC_340e VAC_340e VAC_340e
+奇利亚斯豪华版3000型(7/6) TOY_330t5 zp:5 e:37 A:7 H:6 mH:6 rdy:True natt:0 tnt divshield ptt lfst
+测试假人(4/8) TOY_606 zp:6 e:134 A:4 H:8 mH:8 rdy:True natt:0 tnt
+艾瑞达蛮兵(6/7) GDB_320 zp:7 e:135 A:6 H:7 mH:7 rdy:True natt:0 tnt lfst 附魔: EX1_014te
+EnemyMinions:
+Own Handcards: 
+pos 1 困倦的岛民(3/5) 4 entity 12 VAC_406 0 0 0
+pos 2 幻影绿翼龙(4/5) 6 entity 9 EDR_260 0 0 0 GBL_005e
+pos 3 凶恶的入侵者(3/5) 5 entity 17 GDB_226 0 0 0
+pos 4 凶恶的入侵者(3/5) 5 entity 30 GDB_226 0 0 0
+pos 5 馆长(4/6) 5 entity 18 CORE_KAR_061 0 0 0
+pos 6 货物保镖(2/4) 3 entity 28 CORE_SW_030 0 0 0
+pos 7 焦油泥浆怪(0/3) 1 entity 24 TOY_000 0 0 0
+pos 8 梦魇之王萨维斯(4/4) 4 entity 20 EDR_856 0 0 0
+pos 9 焦油爬行者(1/5) 3 entity 4 CORE_UNG_928 0 0 0
+Enemy cards: 7
+己方当前回合随从墓地: 
+敌方当前回合随从墓地: 
+己方当前回合卡牌墓地: 
+敌方当前回合卡牌墓地: 
+己方坟场: VAC_518,3;TOY_606,1;WORK_023,1;GDB_320,2;VAC_948,1;BAR_COIN1,1;EX1_014t,2;
+敌方坟场: CORE_LOOT_413,2;CORE_EX1_611,1;CORE_DS1_184,1;CORE_DS1_185,1;CORE_UNG_912,2;CORE_EX1_617,2;CORE_EX1_014,1;CORE_BRM_013,1;CORE_EX1_162,2;CORE_NEW1_031,1;CORE_GIL_622,3;CORE_ULD_177,1;NEW1_032,1;
+od: CORE_CS2_106,2;TOY_517,1;CORE_UNG_928,1;CORE_SW_030,1;VAC_406,1;EDR_260,1;TOY_330,1;EDR_000,1;

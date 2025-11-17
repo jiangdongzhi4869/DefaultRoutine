@@ -1,0 +1,57 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 21:58:03 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+水晶： 2 / 7 [我方英雄] warrior （生命: 29 + 6 武器: 未知 ( 0 / 0 ) ) [敌方英雄] deathknight （生命: 30 + 5 武器: 未知 ( 0 / 0 ) ) 
+(猜测对手构筑为: 套牌代码：
+预计直伤： 0， 加上场攻一共 4 )
+[敌方场面] 吞星兽 ( 8 / 1 )[嘲讽]玩具盗窃恶鬼 ( 2 / 1 ) 
+[我方场面] 馆长 ( 4 / 6 )[无法攻击][嘲讽]
+[我方手牌] 幸运币(费用： 0 ； 0 / 0 ) 凶恶的入侵者(费用： 5 ； 3 / 5 ) 基尔加丹(费用： 7 ； 7 / 7 ) 测试假人(费用： 6 ； 4 / 8 ) 幻影绿翼龙(费用： 2 ； 4 / 5 ) 受难的恐翼巨龙(费用： 5 ； 5 / 5 ) 踏青驼鹿(费用： 8 ； 6 / 11 ) 伊瑟拉翡翠守护巨龙(费用： 9 ； 4 / 12 ) 泼漆彩鳍鱼人(费用： 3 ； 2 / 3 ) 
+[敌方剩余卡牌预测] 
+#######################################################################
+#######################################################################
+turn 14/1
+mana 2/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 5 0 2
+ownhero:
+warrior 29 30 6 False False 78 False 0 False 0 0 False
+weapon: 0 0 未知 None 0 0 0
+ability: True CS2_102_H1
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+deathknight 30 30 5 False False 76 False
+weapon: 0 0 未知 None 0 0 0
+ability: True HERO_11bp
+fatigue: 40 0 59 0
+OwnMinions:
+馆长(4/6) CORE_KAR_061 zp:1 e:69 A:4 H:6 mH:6 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+吞星兽(8/1) GDB_855 zp:1 e:111 A:8 H:1 mH:8 rdy:False ex tnt cbtBySpells 附魔: TOY_826e
+玩具盗窃恶鬼(2/1) MIS_006 zp:2 e:16 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 幸运币(0/0) 0 entity 80 ETC_COIN1 0 0 0
+pos 2 凶恶的入侵者(3/5) 5 entity 58 GDB_226 0 0 0
+pos 3 基尔加丹(7/7) 7 entity 52 GDB_145 0 0 0
+pos 4 测试假人(4/8) 6 entity 59 TOY_606 0 0 0
+pos 5 幻影绿翼龙(4/5) 2 entity 65 EDR_260 0 0 0 VAC_518e
+pos 6 受难的恐翼巨龙(5/5) 5 entity 42 EDR_572 0 0 0
+pos 7 踏青驼鹿(6/11) 8 entity 46 EDR_978 0 0 0
+pos 8 伊瑟拉翡翠守护巨龙(4/12) 9 entity 47 EDR_000 0 0 0
+pos 9 泼漆彩鳍鱼人(2/3) 3 entity 63 TOY_517 0 0 0
+Enemy cards: 10
+己方当前回合随从墓地: 
+敌方当前回合随从墓地: 
+己方当前回合卡牌墓地: 
+敌方当前回合卡牌墓地: 
+己方坟场: CORE_SW_030,1;VAC_406,1;CORE_UNG_928,1;CORE_CS2_106,1;TOY_000,1;VAC_518,1;
+敌方坟场: MIS_006,1;TOY_826,1;RLK_708,1;CORE_RLK_066,1;HERO_11bpt,2;RLK_744,1;WORK_010,1;CORE_ULD_723,1;RLK_024,1;EDR_810,1;CORE_RLK_712,1;VAC_521,1;CORE_EX1_059,1;
+od: TOY_000,1;CORE_CS2_106,2;VAC_518,2;CORE_UNG_928,1;CORE_SW_030,1;WORK_023,2;VAC_406,1;EDR_260,2;EDR_856,1;GDB_226,1;CORE_KAR_061,1;VAC_340,1;TOY_330,1;GDB_320,2;VAC_948,1;

@@ -1,0 +1,53 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 21:28:21 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+水晶： 0 / 7 [我方英雄] warrior （生命: 30 + 4 武器: 未知 ( 0 / 0 ) ) [敌方英雄] warlock （生命: 26 + 0 武器: 未知 ( 0 / 0 ) ) 
+(猜测对手构筑为: 套牌代码：
+预计直伤： 0， 加上场攻一共 6 )
+[敌方场面] 卑劣的脏鼠 ( 2 / 6 )[嘲讽]邪魔 ( 9 / 1 )[嘲讽]
+[我方场面] 困倦的岛民 ( 3 / 5 )[无法攻击][嘲讽]货物保镖 ( 2 / 4 )[无法攻击] 
+[我方手牌] 困倦的岛民(费用： 4 ； 3 / 5 ) 测试假人(费用： 6 ； 4 / 8 ) 奇利亚斯豪华版3000型(费用： 7 ； 0 / 0 ) 受难的恐翼巨龙(费用： 5 ； 5 / 5 ) 
+[敌方剩余卡牌预测] 
+#######################################################################
+#######################################################################
+turn 13/4
+mana 0/7
+emana 6
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+2 2 0 0 6 0 1
+ownhero:
+warrior 30 30 4 False False 72 False 0 False 0 0 False
+weapon: 0 0 未知 None 0 0 0
+ability: True CS2_102_H1
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+warlock 26 30 0 False False 74 False
+weapon: 0 0 未知 None 0 0 0
+ability: True HERO_07bp
+fatigue: 45 0 43 0
+OwnMinions:
+困倦的岛民(3/5) VAC_406 zp:1 e:29 A:3 H:5 mH:5 rdy:False natt:0 ex tnt ptt
+货物保镖(2/4) CORE_SW_030 zp:2 e:18 A:2 H:4 mH:4 rdy:False natt:0 ex ptt 附魔: EDR_100t9e
+EnemyMinions:
+卑劣的脏鼠(2/6) CORE_CFM_790 zp:1 e:40 A:2 H:6 mH:6 rdy:False ex tnt
+邪魔(9/1) SW_085t zp:2 e:111 A:9 H:1 mH:9 rdy:False ex tnt
+Own Handcards: 
+pos 1 困倦的岛民(3/5) 4 entity 30 VAC_406 0 0 0
+pos 2 测试假人(4/8) 6 entity 6 TOY_606 0 0 0
+pos 3 奇利亚斯豪华版3000型(0/0) 7 entity 37 TOY_330t5 0 0 0
+pos 4 受难的恐翼巨龙(5/5) 5 entity 17 EDR_572 0 0 0
+Enemy cards: 7
+己方当前回合随从墓地: EDR_856,23;EDR_260t,106;
+敌方当前回合随从墓地: 
+己方当前回合卡牌墓地: EDR_856,23;EDR_260t,106;
+敌方当前回合卡牌墓地: 
+己方坟场: TOY_000,1;GDB_320,2;EDR_856,1;EDR_260,1;EDR_102t,1;EDR_100t9,1;EDR_260t,1;
+敌方坟场: EDR_485,2;TOY_916,1;CORE_SW_085,1;TOY_886,1;TOY_883,1;MUDAN_COIN1,1;SW_085t,1;None,1;
+od: EDR_260t,1;CORE_CS2_106,2;VAC_518,2;TOY_517,1;CORE_UNG_928,2;CORE_SW_030,1;WORK_023,2;EDR_260,1;GDB_226,2;CORE_KAR_061,1;VAC_340,1;GDB_145,1;TOY_330,1;EDR_978,1;EDR_000,1;VAC_948,1;

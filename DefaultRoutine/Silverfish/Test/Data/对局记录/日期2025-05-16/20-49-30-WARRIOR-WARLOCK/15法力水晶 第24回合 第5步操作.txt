@@ -1,0 +1,52 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 21:01:13 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+水晶： 0 / 15 [我方英雄] warrior （生命: 30 + 10 武器: 未知 ( 0 / 0 ) ) [敌方英雄] warlock （生命: 30 + 9 武器: 未知 ( 0 / 0 ) ) 
+(猜测对手构筑为: 套牌代码：
+预计直伤： 0， 加上场攻一共 7 )
+[敌方场面] 暮光幼龙 ( 4 / 5 ) 焦油爬行者 ( 3 / 2 )[嘲讽]
+[我方场面] 伊瑟拉翡翠守护巨龙 ( 4 / 12 )[无法攻击] 泼漆彩鳍鱼人 ( 2 / 3 )[无法攻击] 战斗邪犬 ( 5 / 7 )[无法攻击] 凶恶的入侵者 ( 3 / 2 )[无法攻击] 
+[我方手牌] 年兽(费用： 10 ； 10 / 16 ) 
+[敌方剩余卡牌预测] 
+#######################################################################
+#######################################################################
+turn 24/5
+mana 0/15
+emana 15
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+3 3 0 0 14 0 2
+ownhero:
+warrior 30 30 10 False False 70 False 0 False 0 0 False
+weapon: 0 0 未知 None 0 0 0
+ability: False CS2_102_H1
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+warlock 30 30 9 False False 68 False
+weapon: 0 0 未知 None 0 0 0
+ability: True HERO_07bp
+fatigue: 112 0 47 0
+OwnMinions:
+伊瑟拉翡翠守护巨龙(4/12) EDR_000 zp:1 e:41 A:4 H:12 mH:12 rdy:False natt:0 ex ptt
+泼漆彩鳍鱼人(2/3) TOY_517 zp:2 e:35 A:2 H:3 mH:3 rdy:False natt:0 ex ptt poi
+战斗邪犬(5/7) CORE_BT_351 zp:3 e:157 A:5 H:7 mH:7 rdy:False natt:0 ex ptt 附魔: GDB_145e2
+凶恶的入侵者(3/2) GDB_226 zp:4 e:39 A:3 H:2 mH:5 rdy:False natt:1 ex 法术迸发
+EnemyMinions:
+暮光幼龙(4/5) CORE_EX1_043 zp:1 e:24 A:4 H:5 mH:5 rdy:False ex 附魔: EX1_043e
+焦油爬行者(3/2) CORE_UNG_928 zp:2 e:21 A:3 H:2 mH:5 rdy:False ex tnt
+Own Handcards: 
+pos 1 年兽(6/12) 10 entity 182 EDR_421 4 4 0 GDB_145e2
+Enemy cards: 2
+己方当前回合随从墓地: 
+敌方当前回合随从墓地: 
+己方当前回合卡牌墓地: 
+敌方当前回合卡牌墓地: 
+己方坟场: WORK_023,1;CORE_SW_030,2;EDR_978,1;EDR_572,1;GDB_320,1;TOY_000,1;GDB_145,1;VAC_406,1;EDR_260,2;CORE_UNG_928,2;WW_COIN1,1;MIS_911,1;
+敌方坟场: CORE_SCH_158,1;CORE_EX1_011,1;CORE_BT_304,1;CORE_EX1_043,1;CORE_EX1_309,2;EDR_488,1;CORE_ICC_055,2;CORE_LOOT_413,2;CORE_CS2_179,1;CORE_SW_068,1;CORE_CS2_062,2;CORE_EX1_319,1;CORE_BOT_222,1;CORE_EX1_302,2;TOY_526,1;TOY_520,1;VAC_940,1;CORE_BAR_812,1;MIS_105,1;BT_304t,1;EDR_102t,1;EDR_571,1;EDR_100t1,1;
+od: CORE_EX1_319,2;TOY_652,1;CORE_EX1_310,1;GDB_128,1;GDB_870,1;EDR_780,1;GDB_129,2;CORE_BT_493,3;EDR_493,2;GDB_132,1;VAC_943,1;CORE_BT_304,1;WORK_015,1;VAC_958,1;VAC_933,1;EDR_102,1;GDB_226,1;GDB_321,1;TOY_526,1;EDR_486,2;EDR_891,1;MIS_911,1;CORE_ICC_075,1;GDB_472,1;TOY_330,1;

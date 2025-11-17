@@ -1,0 +1,49 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 21:18:44 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+水晶： 0 / 2 [我方英雄] warrior （生命: 29 + 0 武器: 炽炎战斧 ( 3 / -1 ) ) [敌方英雄] hunter （生命: 30 + 0 武器: 未知 ( 0 / 0 ) ) 
+(猜测对手构筑为: 套牌代码：
+预计直伤： 0， 加上场攻一共 0 )
+[敌方场面] 
+[我方场面] 
+[我方手牌] 艾瑞达蛮兵(费用： 7 ； 5 / 6 ) 测试假人(费用： 6 ； 4 / 8 ) 基尔加丹(费用： 7 ； 7 / 7 ) 炽炎战斧(费用： 2 ； 3 / 2 ) 
+[敌方剩余卡牌预测] 
+#######################################################################
+#######################################################################
+turn 3/2
+mana 0/2
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 0 0 0 0 2
+ownhero:
+warrior 29 30 0 False False 70 False 1 False 3 0 False
+weapon: 3 -1 炽炎战斧 CORE_CS2_106 0 0 0
+ability: True CS2_102_H1
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+hunter 30 30 0 False False 68 False
+weapon: 0 0 未知 None 0 0 0
+ability: True HERO_05bp
+fatigue: 38 0 34 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 艾瑞达蛮兵(5/6) 7 entity 36 GDB_320 0 0 0
+pos 2 测试假人(4/8) 6 entity 34 TOY_606 0 0 0
+pos 3 基尔加丹(7/7) 7 entity 54 GDB_145 0 0 0
+pos 4 炽炎战斧(3/2) 2 entity 39 CORE_CS2_106 0 0 0
+Enemy cards: 6
+己方当前回合随从墓地: 
+敌方当前回合随从墓地: CORE_UNG_912,6;
+己方当前回合卡牌墓地: 
+敌方当前回合卡牌墓地: CORE_UNG_912,6;
+己方坟场: 
+敌方坟场: CORE_UNG_912,1;
+od: TOY_000,1;VAC_518,2;TOY_517,1;CORE_UNG_928,2;CORE_SW_030,2;WORK_023,2;VAC_406,2;EDR_260,2;EDR_856,1;GDB_226,2;EDR_572,1;CORE_KAR_061,1;VAC_340,1;TOY_330,1;GDB_320,1;EDR_978,1;EDR_000,1;VAC_948,1;

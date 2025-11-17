@@ -1,0 +1,55 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 21:25:26 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+水晶： 1 / 5 [我方英雄] warrior （生命: 30 + 4 武器: 未知 ( 0 / 0 ) ) [敌方英雄] warlock （生命: 26 + 0 武器: 未知 ( 0 / 0 ) ) 
+(猜测对手构筑为: 套牌代码：
+预计直伤： 0， 加上场攻一共 3 )
+[敌方场面] 邪魔 ( 9 / 9 )[嘲讽]
+[我方场面] 梦魇之王萨维斯 ( 4 / 4 )[无法攻击] 幻影绿翼龙 ( 4 / 5 )[嘲讽]焦油泥浆怪 ( 0 / 1 )[无法攻击][嘲讽]
+[我方手牌] 艾瑞达蛮兵(费用： 6 ； 5 / 6 ) 困倦的岛民(费用： 4 ； 3 / 5 ) 困倦的岛民(费用： 4 ； 3 / 5 ) 测试假人(费用： 6 ； 4 / 8 ) 艾瑞达蛮兵(费用： 6 ； 5 / 6 ) 货物保镖(费用： 3 ； 2 / 4 ) 
+[敌方剩余卡牌预测] 
+#######################################################################
+#######################################################################
+turn 9/1
+mana 1/5
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 0 0 1
+ownhero:
+warrior 30 30 4 False False 72 False 0 False 0 0 False
+weapon: 0 0 未知 None 0 0 0
+ability: True CS2_102_H1
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+warlock 26 30 0 False False 74 False
+weapon: 0 0 未知 None 0 0 0
+ability: True HERO_07bp
+fatigue: 43 0 40 0
+OwnMinions:
+梦魇之王萨维斯(4/4) EDR_856 zp:1 e:23 A:4 H:4 mH:4 rdy:False natt:0 ex ptt
+幻影绿翼龙(4/5) EDR_260 zp:2 e:26 A:4 H:5 mH:5 rdy:True natt:0 tnt
+焦油泥浆怪(0/1) TOY_000 zp:3 e:19 A:0 H:1 mH:3 rdy:False natt:0 tnt
+EnemyMinions:
+邪魔(9/9) SW_085t zp:1 e:94 A:9 H:9 mH:9 rdy:False tnt
+Own Handcards: 
+pos 1 艾瑞达蛮兵(5/6) 6 entity 22 GDB_320 0 0 0
+pos 2 困倦的岛民(3/5) 4 entity 29 VAC_406 0 0 0
+pos 3 困倦的岛民(3/5) 4 entity 30 VAC_406 0 0 0
+pos 4 测试假人(4/8) 6 entity 6 TOY_606 0 0 0
+pos 5 艾瑞达蛮兵(5/6) 6 entity 20 GDB_320 0 0 0
+pos 6 货物保镖(2/4) 3 entity 18 CORE_SW_030 0 0 0 EDR_100t9e
+Enemy cards: 9
+己方当前回合随从墓地: 
+敌方当前回合随从墓地: 
+己方当前回合卡牌墓地: EDR_102t,96;EDR_100t9,97;
+敌方当前回合卡牌墓地: 
+己方坟场: EDR_102t,1;EDR_100t9,1;
+敌方坟场: EDR_485,2;CORE_SW_085,1;
+od: CORE_CS2_106,2;VAC_518,2;TOY_517,1;CORE_UNG_928,2;CORE_SW_030,1;WORK_023,2;EDR_260,1;GDB_226,2;EDR_572,1;CORE_KAR_061,1;VAC_340,1;GDB_145,1;TOY_330,1;EDR_978,1;EDR_000,1;VAC_948,1;

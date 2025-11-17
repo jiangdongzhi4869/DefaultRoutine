@@ -1,0 +1,51 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 21:16:05 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+水晶： 10 / 15 [我方英雄] warrior （生命: 18 + 0 武器: 未知 ( 0 / 0 ) ) [敌方英雄] deathknight （生命: 25 + 9 武器: 未知 ( 0 / 0 ) ) 
+(猜测对手构筑为: 套牌代码：
+预计直伤： 0， 加上场攻一共 11 )
+[敌方场面] 灵魂通途 ( 4 / 5 )[嘲讽]奥金尼亡语者 ( 1 / 1 ) 经理马林 ( 6 / 4 ) 
+[我方场面] 凶恶的入侵者 ( 3 / 5 )[无法攻击] 
+[我方手牌] 凶恶的入侵者(费用： 5 ； 3 / 5 ) 合金顾问(费用： 4 ； 2 / 6 ) 
+[敌方剩余卡牌预测] 
+#######################################################################
+#######################################################################
+turn 24/1
+mana 10/15
+emana 15
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 20 0 2
+ownhero:
+warrior 18 30 0 False False 78 False 0 False 0 0 False
+weapon: 0 0 未知 None 0 0 0
+ability: True CS2_102_H1
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+deathknight 25 30 9 False False 127 False
+weapon: 0 0 未知 None 0 0 0
+ability: True TOY_829hp
+fatigue: 45 0 122 0
+OwnMinions:
+凶恶的入侵者(3/5) GDB_226 zp:1 e:70 A:3 H:5 mH:5 rdy:False natt:0 ex 法术迸发 ptt
+EnemyMinions:
+灵魂通途(4/5) GDB_100t4 zp:1 e:237 A:4 H:5 mH:5 rdy:False tnt ptt untch 附魔: GDB_100e
+奥金尼亡语者(1/1) GDB_469 zp:2 e:245 A:1 H:1 mH:3 rdy:False ex
+经理马林(6/4) VAC_702 zp:3 e:5 A:6 H:4 mH:6 rdy:False ex
+Own Handcards: 
+pos 1 凶恶的入侵者(3/5) 5 entity 61 GDB_226 0 0 0
+pos 2 合金顾问(2/6) 4 entity 59 WORK_023 0 0 0
+Enemy cards: 10
+己方当前回合随从墓地: 
+敌方当前回合随从墓地: 
+己方当前回合卡牌墓地: 
+敌方当前回合卡牌墓地: 
+己方坟场: TOY_517,1;EDR_978,1;CORE_SW_030,2;VAC_518,1;CORE_UNG_928,2;WORK_023,1;EDR_260,2;EDR_572,1;VAC_406,2;EDR_000,1;GDB_145,1;GDB_320,1;TOY_330t5,1;REV_COIN2,1;EDR_260t,3;
+敌方坟场: CORE_CFM_790,1;VAC_514,3;CORE_RLK_066,2;CORE_RLK_035,1;MIS_006,1;TOY_826,2;MIS_006t,1;RLK_223,2;RLK_744,1;VAC_514t,2;EDR_817,1;EDR_810,1;HERO_11bpt,1;CORE_AT_123,1;TOY_827,2;TOY_830,2;TOY_821,1;CORE_ULD_723,2;TOY_828,1;TOY_341,2;WORK_042,1;RLK_708,3;TOY_814,1;EDR_780,1;TOY_006,1;CORE_CS2_189,1;CORE_EX1_011,2;CORE_EX1_002,2;RLK_082,3;GDB_100,2;EDR_572,1;CORE_KAR_061,1;WORK_027,2;EDR_598,1;CORE_UNG_928,1;GDB_333,1;GDB_469,1;TOY_824,1;EDR_813,1;VAC_702t2,1;VAC_702t3,1;VAC_702t4,1;
+od: EDR_260t,1;EDR_978,1;TOY_000,1;CORE_CS2_106,2;VAC_518,1;CORE_SW_030,1;EDR_856,1;GDB_226,1;CORE_KAR_061,1;TOY_606,1;VAC_340,1;GDB_145,1;TOY_330,1;GDB_320,2;EDR_000,1;VAC_948,1;
